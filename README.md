@@ -1,105 +1,90 @@
-<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+<p align="center">
+  <img src="images/neteclogo%20(2).png" alt="Logo Netec" width="300">
+</p>
 
-
-
-# Nombre del curso
-
-
+# PYT_ESS | Python Essentials
 
 ## Plataforma de laboratorios
 
+Te damos la bienvenida a la plataforma de laboratorios del curso **PYT_ESS - Python Essentials**.
 
+Este repositorio contiene prácticas guiadas para adquirir los conocimientos esenciales de programación con **Python 3**, desde el uso del intérprete y las operaciones básicas hasta el manejo de colecciones, funciones y excepciones.
 
-Te damos la bienvenida a la **plataforma de laboratorios** del curso **nombre**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
+## Objetivos del curso
 
+Al finalizar el curso, podrás:
 
+- Configurar y utilizar un entorno de desarrollo para Python.
+- Comprender la sintaxis y los fundamentos del lenguaje.
+- Trabajar con variables, tipos de datos, operadores y expresiones.
+- Capturar y procesar datos ingresados por el usuario.
+- Utilizar estructuras de control y ciclos.
+- Crear y manipular colecciones.
+- Definir funciones reutilizables.
+- Identificar y controlar excepciones.
 
-## Lista de laboratorios
+## Requisitos
 
+Para desarrollar las prácticas necesitarás:
 
+- Python 3.
+- Visual Studio Code.
+- Extensión de Python para Visual Studio Code.
+- Acceso a Internet.
+- Permisos para crear y ejecutar archivos en el equipo.
 
-Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
+## Lista de prácticas
 
+Cada práctica corresponde a uno de los capítulos del curso. Sigue la numeración y el orden presentado a continuación.
 
+### [Práctica 1.1. Posicionamiento de lenguajes de programación](Capitulo_1/README.md)
 
-### [Práctica 1. Nombre de la práctica](CHAPTER_01/ch01-investment-portfolio/README.md) 
+- **Descripción:** compara la popularidad de Python y otros lenguajes mediante Google Trends y la disponibilidad de libros técnicos en Amazon México.
+- **Duración aproximada:** 7 minutos.
+- **Capítulo relacionado:** Introducción.
 
-  - **Descripción**: xxx.
+### [Práctica 2.1. Consola interactiva de Python en Visual Studio Code](Capitulo_2/README.md)
 
-  - ⏱️ **Duración estimada**: xx min.
+- **Descripción:** utiliza el intérprete interactivo de Python, ejecuta expresiones, declara variables e identifica errores básicos.
+- **Duración aproximada:** 5 minutos.
+- **Capítulo relacionado:** Conceptos básicos.
 
+### [Práctica 3.1. Expresiones y entrada de datos](Capitulo_3/README.md)
 
+- **Descripción:** captura información con `input()`, convierte tipos de datos, realiza operaciones aritméticas y evalúa expresiones booleanas.
+- **Duración aproximada:** 8 minutos.
+- **Capítulo relacionado:** Tipos, operadores, expresiones y entrada/salida.
 
-### [Práctica 2. Nombre de la práctica](CHAPTER_02/ch02-cashback-schema-design/README.md)
+### [Práctica 4.1. Rangos](Capitulo_4/README.md)
 
-  - **Descripción**: xxx.
+- **Descripción:** genera secuencias numéricas mediante `range()` y utiliza ciclos `for` con incrementos definidos por el usuario.
+- **Duración aproximada:** 8 minutos.
+- **Capítulo relacionado:** Control de flujo.
 
-  - ⏱️ **Duración estimada**: xx min.
+### [Práctica 5.1. Listas y comprensión de listas](Capitulo_5/README.md)
 
+- **Descripción:** crea y manipula listas, realiza copias, agrega elementos, calcula promedios y utiliza comprensión de listas.
+- **Duración aproximada:** 8 minutos.
+- **Capítulo relacionado:** Colecciones.
 
+### [Práctica 6.1. Funciones y parámetros](Capitulo_6/README.md)
 
-### [Práctica 3. Nombre de la práctica](CHAPTER_03/ch03-cashback-dgs-service/README.md)
+- **Descripción:** define funciones reutilizables, diferencia parámetros y argumentos y prueba su comportamiento con distintos tipos de datos.
+- **Duración aproximada:** 8 minutos.
+- **Capítulo relacionado:** Funciones.
 
-  - **Descripción**: xxx.
+### [Práctica 7.1. Manejo de excepciones](Capitulo_7/README.md)
 
-  - ⏱️**Duración estimada**: xx min.
+- **Descripción:** identifica excepciones comunes y utiliza estructuras `try` y `except` para controlar errores durante la ejecución.
+- **Duración aproximada:** 8 minutos.
+- **Capítulo relacionado:** Excepciones.
 
+## Recomendaciones
 
+1. Realiza las prácticas en el orden establecido.
+2. Lee el objetivo antes de comenzar cada actividad.
+3. Ejecuta y valida el código después de cada modificación.
+4. Responde las preguntas de análisis incluidas en cada práctica.
+5. Completa la tabla de validación antes de continuar.
+6. Realiza los desafíos propuestos para reforzar tu aprendizaje.
 
-### [Práctica 3. Nombre de la práctica](CHAPTER_04/ch04-smart-savings-goals/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_05/ch05-p2p-lending-federation/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_06/ch06-fraud-detection-subscriptions/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_07/ch07-expense-analytics-caching/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_08/ch08-carbon-footprint-governance/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
-
-
-
----
-
-
-
-## 📬 **Contacto y más información**
-
-
-
-Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
-
-
-
----
-
-
-
-¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
