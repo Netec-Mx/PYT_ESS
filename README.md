@@ -40,24 +40,24 @@ Las prácticas están organizadas por capítulos. Sigue la numeración y el orde
 
 ## Capítulo 1. Introducción
 
-### [Práctica 1.1. Posicionamiento de lenguajes de programación](Capitulo_1/README 1_1.md)
+### [Práctica 1.1. Posicionamiento de lenguajes de programación](<Capitulo_1/README 1_1.md>)
 
 - **Descripción:** compara la popularidad de Python y otros lenguajes mediante Google Trends y la disponibilidad de libros técnicos en Amazon México.
 - **Duración aproximada:** 7 minutos.
 
-### [Práctica 1.2. Hola Mundo con Python Script](Capitulo_1/README 1_2.md)
+### [Práctica 1.2. Hola Mundo con Python Script](<Capitulo_1/README 1_2.md>)
 
 - **Descripción:** crea un directorio de trabajo y desarrolla tu primer script en Python utilizando Visual Studio Code y la función `print()`.
 - **Duración aproximada:** 7 minutos.
 
 ## Capítulo 2. Conceptos básicos
 
-### [Práctica 2.1. Consola interactiva de Python en Visual Studio Code](Capitulo_2/README 2_1.md)
+### [Práctica 2.1. Consola interactiva de Python en Visual Studio Code](<Capitulo_2/README 2_1.md>)
 
 - **Descripción:** utiliza el intérprete interactivo de Python, ejecuta instrucciones e identifica errores básicos.
 - **Duración aproximada:** 5 minutos.
 
-### [Práctica 2.2. Explorando tipos de datos](Capitulo_2/README 2_2.md)
+### [Práctica 2.2. Explorando tipos de datos](<Capitulo_2/README 2_2.md>)
 
 - **Descripción:** utiliza la función `type()` para identificar y reconocer los tipos de datos básicos disponibles en Python.
 - **Duración aproximada:** 7 minutos.
