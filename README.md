@@ -40,7 +40,7 @@ Las prácticas están organizadas por capítulos. Sigue la numeración y el orde
 
 ## Capítulo 1. Introducción
 
-### [Práctica 1.1. Posicionamiento de lenguajes de programación](<Capitulo_1/README 1_1.md>)
+### [Práctica 1.1. Posicionamiento de lenguajes de programación](<Capitulo_1/README1_1.md>)
 
 - **Descripción:** compara la popularidad de Python y otros lenguajes mediante Google Trends y la disponibilidad de libros técnicos en Amazon México.
 - **Duración aproximada:** 7 minutos.
