@@ -52,7 +52,7 @@ Las prácticas están organizadas por capítulos. Sigue la numeración y el orde
 
 ## Capítulo 2. Conceptos básicos
 
-### [Práctica 2.1. Consola interactiva de Python en Visual Studio Code](<Capitulo_2/README 2_1.md>)
+### [Práctica 2.1. Consola interactiva de Python en Visual Studio Code](Capitulo_2/README 2_1.md)
 
 - **Descripción:** utiliza el intérprete interactivo de Python, ejecuta instrucciones e identifica errores básicos.
 - **Duración aproximada:** 5 minutos.
