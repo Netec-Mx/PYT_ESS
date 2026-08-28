@@ -1,7 +1,3 @@
----
-layout: default
-title: Práctica 1.1. Posicionamiento de lenguajes de programación
----
 
 # Práctica 1.1. Posicionamiento de lenguajes de programación
 
